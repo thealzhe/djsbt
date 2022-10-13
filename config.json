@@ -1,0 +1,3 @@
+{
+	"prefix":"." // One character only or two, what you want. Spaces won't work.
+}

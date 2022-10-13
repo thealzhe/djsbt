@@ -1,0 +1,30 @@
+{
+  "name": "thealzhe",
+  "version": "0.1.0",
+  "description": "The Discord JS Bot Template made by thealzhe. Using my own files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealzhe/djsbt.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discordjs",
+    "github",
+    "template"
+  ],
+  "author": "thealzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thealzhe/djsbt/issues"
+  },
+  "homepage": "https://github.com/thealzhe/djsbt#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security"
+  }
+}
